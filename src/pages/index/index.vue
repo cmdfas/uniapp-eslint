@@ -1,3 +1,3 @@
 <template>
-  <view></view>
+  <view>uniapp eslint</view>
 </template>
